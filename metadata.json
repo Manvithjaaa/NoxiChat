@@ -1,0 +1,5 @@
+{
+  "name": "NoxiChat",
+  "description": "A real-time chat application with Google Authentication and Firestore backend.",
+  "requestFramePermissions": []
+}
